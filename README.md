@@ -7,7 +7,7 @@ This project analyzes **Netflix’s global engagement data (Jan–Jun 2023)** to
 Netflix wants to understand:  
 -  **Which titles drive the most engagement?**  
 -  **Does global availability affect viewing hours?**  
-- 🗓 **How do viewing trends evolve over time?**  
+-  **How do viewing trends evolve over time?**  
 
 This project answers these questions by analyzing the dataset and visualizing the results with Power BI.
 
